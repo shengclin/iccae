@@ -1,1 +1,3 @@
 requirement: Pytorch, TensorboardX
+
+To train the model, run python train.py param.ini. All training details are given in param.ini. For the testing, use test.py, and test.py -h for more info about testing.
